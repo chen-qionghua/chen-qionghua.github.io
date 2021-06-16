@@ -1,37 +1,29 @@
-## Welcome to GitHub Pages
+## 欢迎来到陈琼华的个人网站
 
-You can use the [editor on GitHub](https://github.com/chen-qionghua/chen-qionghua.github.io/edit/main/README.md) to maintain and preview the content for your website in Markdown files.
+在这里，你可以看到陈琼华的一些个人信息。
+个人基本信息：
 
-Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
+站长姓名：陈琼华
 
-### Markdown
+性别：女
 
-Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
+学历：本科
 
-```markdown
-Syntax highlighted code block
+学校：广东工业大学
 
-# Header 1
-## Header 2
-### Header 3
+学号：3219004268
 
-- Bulleted
-- List
+专业：电子商务
 
-1. Numbered
-2. List
+个人微信公众号：ColdKnowledge_
 
-**Bold** and _Italic_ and `Code` text
+【这里搁一些你吃饭睡觉打嗝都能看的文~】
 
-[Link](url) and ![Image](src)
-```
+第一篇公众号推文诞生啦~ 
+链接为：https://mp.weixin.qq.com/s/CQcPO8edlKRRI-2RqWtc1g
 
-For more details see [GitHub Flavored Markdown](https://guides.github.com/features/mastering-markdown/).
+第二篇公众号推文：https://mp.weixin.qq.com/s/VxkBB8BrVA4RJUWu6cB0EA
 
-### Jekyll Themes
+第三篇公众号推文：https://mp.weixin.qq.com/s/E-op6Nvv2XDmE9QvsMSPfg
 
-Your Pages site will use the layout and styles from the Jekyll theme you have selected in your [repository settings](https://github.com/chen-qionghua/chen-qionghua.github.io/settings/pages). The name of this theme is saved in the Jekyll `_config.yml` configuration file.
-
-### Support or Contact
-
-Having trouble with Pages? Check out our [documentation](https://docs.github.com/categories/github-pages-basics/) or [contact support](https://support.github.com/contact) and we’ll help you sort it out.
+个人自媒体【百家号】账号主页：https://baijiahao.baidu.com/builder/rc/home
